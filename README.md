@@ -1,1 +1,1 @@
-# LAB-Scientific-Computing2
+# LAB-Scientific-Computing
